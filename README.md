@@ -35,7 +35,7 @@ Sistem, her mum kapanışında 0 ile 100+ arasında bir **"Conviction Score" (İ
 `!https://github.com/Lomion9/TradingView-Karar-Destek-Indikatorleri/blob/main/dashboard.png?raw=true`
 
 ### 2. "Sniper" Giriş Sinyali
-> *Yüksek puanlı bir AL sinyali. Otomatik çizilen TP/SL çizgilerine ve ZLT Trendinin (renkli şerit) uyumuna dikkat edin.*
+> *Yüksek puanlı bir AL sinyali. Otomatik çizilen S/R çizgilerine ve ZLT Trendinin (renkli şerit) uyumuna dikkat edin.*
 `!https://github.com/Lomion9/TradingView-Karar-Destek-Indikatorleri/blob/main/guclu-al-sinyali.png?raw=true`
 `!https://github.com/Lomion9/TradingView-Karar-Destek-Indikatorleri/blob/main/guclu-sat-sinyali.png?raw=true`
 
