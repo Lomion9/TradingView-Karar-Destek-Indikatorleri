@@ -36,11 +36,12 @@ Sistem, her mum kapanışında 0 ile 100+ arasında bir **"Conviction Score" (İ
 
 ### 2. "Sniper" Giriş Sinyali
 > *Yüksek puanlı bir AL sinyali. Otomatik çizilen TP/SL çizgilerine ve ZLT Trendinin (renkli şerit) uyumuna dikkat edin.*
-`![Alice Signal Example](buraya_sinyal_resmi.png)`
+`!https://github.com/Lomion9/TradingView-Karar-Destek-Indikatorleri/blob/main/guclu-al-sinyali.png?raw=true`
+`!https://github.com/Lomion9/TradingView-Karar-Destek-Indikatorleri/blob/main/guclu-sat-sinyali.png?raw=true`
 
 ### 3. SMC Yapıları (Order Blocks & FVG)
 > *Fiyatın kurumsal "Order Block" bölgelerinden (kutucuklar) nasıl tepki aldığını gösteren piyasa yapısı analizi.*
-`![SMC Analysis](buraya_smc_resmi.png)`
+`!https://github.com/Lomion9/TradingView-Karar-Destek-Indikatorleri/blob/main/smc-yapisi.png?raw=true`
 
 ---
 
