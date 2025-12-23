@@ -32,7 +32,7 @@ Sistem, her mum kapanışında 0 ile 100+ arasında bir **"Conviction Score" (İ
 
 ### 1. Dashboard ve Makro Analiz
 > *Alice, sol alttaki panelde ABD Ekonomisinin o anki durumunu (Risk-On / Risk-Off) ve sağ altta stratejinin başarı oranını canlı olarak gösterir.*
-`![Alice Dashboard](buraya_dashboard_resmi.png)`
+`!https://github.com/Lomion9/TradingView-Karar-Destek-Indikatorleri/blob/main/dashboard.png?raw=true`
 
 ### 2. "Sniper" Giriş Sinyali
 > *Yüksek puanlı bir AL sinyali. Otomatik çizilen TP/SL çizgilerine ve ZLT Trendinin (renkli şerit) uyumuna dikkat edin.*
